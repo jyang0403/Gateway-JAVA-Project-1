@@ -1,2 +1,2 @@
-# JAVA-projects-
-A collection of my academic and personal JAVA projects
+# The first project!
+Drawing a swan using a JAVA repository :)
